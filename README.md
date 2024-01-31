@@ -1,5 +1,6 @@
 GroundStudio Jade N1+
 ====================================
+![JadeN1+](https://github.com/GroundStudio/Jade_N1plus/assets/77836107/9170b000-9352-4575-82d9-11bf14fdb31c)
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/home/)
 
